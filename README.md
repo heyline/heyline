@@ -7,4 +7,4 @@
   <img align="center" height = "178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushiyi&count_private=true&theme=noctis_minimus" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bushiyi&theme=react&bg_color=1B2932&point=6E8B3D&line=6E8B3D)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bushiyi&theme=react&bg_color=1B2932&point=698B69&line=698B69)](https://github.com/ashutosh00710/github-readme-activity-graph)
