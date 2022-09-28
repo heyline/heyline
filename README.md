@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bushiyi&count_private=true&theme=noctis_minimus)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushiyi&layout=compact)](https://github.com/bushiyi/github-readme-stats)
+
+
+<a href="https://github.com/bushiyi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bushiyi&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/bushiyi/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bushiyi&repo=convoychat" />
+</a>
