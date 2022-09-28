@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 
-
 <a href="https://github.com/search?o=desc&q=author%3Abushiyi&s=committer-date&type=Commits">
   <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=bushiyi&count_private=true&show_icons=true&theme=noctis_minimus&hide=contribs&include_all_commits=true" />
 </a>
