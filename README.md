@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bushiyi&count_private=true&theme=noctis_minimus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushiyi&layout=compact)]
-(https://github.com/bushiyi/github-readme-stats)
+[![Top Langs](https://github.com/bushiyi/github-readme-stats)
