@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api?username=bushiyi&count_private=true&show_icons=true&theme=noctis_minimus&hide=contribs&include_all_commits=true" />
 </a>
 <a href="https://github.com/bushiyi?tab=repositories">
-  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushiyi&count_private=true&layout=compact&theme=noctis_minimus" />
+  <img align="center" height = "167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushiyi&count_private=true&theme=noctis_minimus" />
 </a>
