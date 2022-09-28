@@ -10,22 +10,6 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bushiyi&theme=react&bg_color=1B2932&point=698B69&line=698B69)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 262 Contributions in the Year 2022
- > 
-> 📦 955 Bytes Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -41,5 +25,5 @@ Java                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/bushiyi/bushiyi/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/09/2022 10:06:56 UTC
+ Last Updated on 28/09/2022 10:18:14 UTC
 <!--END_SECTION:waka-->
