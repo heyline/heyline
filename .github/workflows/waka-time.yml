@@ -22,4 +22,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_TIMELINE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+
 
