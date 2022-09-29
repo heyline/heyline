@@ -10,6 +10,15 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bushiyi&theme=react&bg_color=1B2932&point=698B69&line=698B69)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   35 mins             ████████████████████████░   98.3% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -21,5 +30,5 @@ Java                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 28/09/2022 19:00:28 UTC
+ Last Updated on 29/09/2022 09:53:36 UTC
 <!--END_SECTION:waka-->
