@@ -14,8 +14,7 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   35 mins             ████████████████████████░   98.3% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+No Activity Tracked This Week
 
 ```
 
@@ -30,5 +29,5 @@ Java                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 05/10/2022 19:05:13 UTC
+ Last Updated on 06/10/2022 09:57:01 UTC
 <!--END_SECTION:waka-->
