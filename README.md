@@ -11,5 +11,15 @@
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 27 September 2022 - To: 08 October 2022
+
+Total Time: 36 mins
+
+Kotlin       35 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.30 %
+JavaScript   0 secs          -------------------------   01.70 %
+```
+
 <!--END_SECTION:waka-->
 
