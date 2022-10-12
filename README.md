@@ -13,14 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 September 2022 - To: 10 October 2022
+From: 27 September 2022 - To: 11 October 2022
 
-Total Time: 8 hrs 28 mins
+Total Time: 14 hrs 35 mins
 
-Kotlin         3 hrs 36 mins   >>>>>>>>>>>--------------   42.60 %
-YAML           1 hr 45 mins    >>>>>--------------------   20.78 %
-Markdown       1 hr            >>>----------------------   11.88 %
-Other          37 mins         >>-----------------------   07.39 %
+Kotlin         5 hrs 58 mins   >>>>>>>>>>---------------   40.93 %
+JavaScript     2 hrs 2 mins    >>>----------------------   13.93 %
+YAML           1 hr 48 mins    >>>----------------------   12.38 %
+Markdown       1 hr 12 mins    >>-----------------------   08.33 %
+Other          37 mins         >------------------------   04.29 %
 ```
 
 <!--END_SECTION:waka-->
