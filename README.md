@@ -10,6 +10,8 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bushiyi&theme=react&bg_color=1B2932&point=698B69&line=698B69)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![](https://raw.githubusercontent.com/bushiyi/bushiyi/master/assets/github-contribution-grid-snake.svg)
+
 <!--START_SECTION:waka-->
 
 ```text
