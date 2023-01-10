@@ -16,16 +16,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 September 2022 - To: 08 January 2023
+From: 27 September 2022 - To: 09 January 2023
 
-Total Time: 309 hrs 28 mins
+Total Time: 311 hrs 56 mins
 
-TypeScript            152 hrs 44 mins >>>>>>>>>>>>-------------   49.36 %
-HTML                  49 hrs 35 mins  >>>>---------------------   16.02 %
-Kotlin                43 hrs 4 mins   >>>----------------------   13.92 %
-JavaScript            14 hrs 19 mins  >------------------------   04.63 %
-YAML                  8 hrs 51 mins   >------------------------   02.86 %
-JSON                  8 hrs 25 mins   >------------------------   02.72 %
+TypeScript            154 hrs 4 mins  >>>>>>>>>>>>-------------   49.39 %
+HTML                  50 hrs 10 mins  >>>>---------------------   16.08 %
+Kotlin                43 hrs 9 mins   >>>----------------------   13.83 %
+JavaScript            14 hrs 19 mins  >------------------------   04.59 %
+YAML                  8 hrs 56 mins   >------------------------   02.87 %
+JSON                  8 hrs 25 mins   >------------------------   02.70 %
 ```
 
 <!--END_SECTION:waka-->
