@@ -6,8 +6,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heyline/heyline/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://raw.githubusercontent.com/bushiyi/bushiyi/master/assets/github-contribution-grid-snake.svg)
-
 <!--START_SECTION:waka-->
 
 ```txt
