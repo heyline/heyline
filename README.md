@@ -9,25 +9,25 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 30 August 2023
+From: 27 September 2022 - To: 31 August 2023
 
-Total Time: 1,880 hrs 59 mins
+Total Time: 1,881 hrs 18 mins
 
-TypeScript            638 hrs 8 mins  >>>>>>>>-----------------   33.93 %
+TypeScript            638 hrs 8 mins  >>>>>>>>-----------------   33.92 %
 Kotlin                439 hrs 49 mins >>>>>>-------------------   23.38 %
-HTML                  302 hrs 58 mins >>>>---------------------   16.11 %
-YAML                  90 hrs 31 mins  >------------------------   04.81 %
+HTML                  302 hrs 58 mins >>>>---------------------   16.10 %
+YAML                  90 hrs 45 mins  >------------------------   04.82 %
 Java                  63 hrs 48 mins  >------------------------   03.39 %
 Bash                  51 hrs 29 mins  >------------------------   02.74 %
-JavaScript            49 hrs 30 mins  >------------------------   02.63 %
+JavaScript            49 hrs 31 mins  >------------------------   02.63 %
 JSON                  42 hrs 59 mins  >------------------------   02.29 %
 GraphQL               29 hrs 33 mins  -------------------------   01.57 %
 SQL                   19 hrs 56 mins  -------------------------   01.06 %
 Docker                15 hrs 37 mins  -------------------------   00.83 %
 Shell Script          15 hrs 12 mins  -------------------------   00.81 %
 Less                  14 hrs 19 mins  -------------------------   00.76 %
-LESS                  13 hrs 49 mins  -------------------------   00.74 %
-Markdown              13 hrs 49 mins  -------------------------   00.74 %
+LESS                  13 hrs 49 mins  -------------------------   00.73 %
+Markdown              13 hrs 49 mins  -------------------------   00.73 %
 Groovy                12 hrs 54 mins  -------------------------   00.69 %
 Rust                  10 hrs 30 mins  -------------------------   00.56 %
 Text                  9 hrs 27 mins   -------------------------   00.50 %
