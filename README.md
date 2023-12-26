@@ -9,22 +9,22 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 24 December 2023
+From: 27 September 2022 - To: 25 December 2023
 
-Total Time: 2,119 hrs 56 mins
+Total Time: 2,122 hrs 34 mins
 
-TypeScript                             662 hrs 31 mins >>>>>>>>-----------------   31.25 %
-Kotlin                                 503 hrs 4 mins  >>>>>>-------------------   23.73 %
-HTML                                   312 hrs 2 mins  >>>>---------------------   14.72 %
-YAML                                   99 hrs 50 mins  >------------------------   04.71 %
+TypeScript                             664 hrs 13 mins >>>>>>>>-----------------   31.29 %
+Kotlin                                 503 hrs 12 mins >>>>>>-------------------   23.71 %
+HTML                                   312 hrs 52 mins >>>>---------------------   14.74 %
+YAML                                   99 hrs 50 mins  >------------------------   04.70 %
 JSON                                   78 hrs 39 mins  >------------------------   03.71 %
 JavaScript                             65 hrs 32 mins  >------------------------   03.09 %
 Java                                   65 hrs 22 mins  >------------------------   03.08 %
 Bash                                   55 hrs 31 mins  >------------------------   02.62 %
-SQL                                    43 hrs 48 mins  >------------------------   02.07 %
-Markdown                               42 hrs 30 mins  >------------------------   02.01 %
+SQL                                    43 hrs 48 mins  >------------------------   02.06 %
+Markdown                               42 hrs 30 mins  >------------------------   02.00 %
 GraphQL                                29 hrs 33 mins  -------------------------   01.39 %
-Shell Script                           19 hrs 24 mins  -------------------------   00.92 %
+Shell Script                           19 hrs 24 mins  -------------------------   00.91 %
 Docker                                 15 hrs 38 mins  -------------------------   00.74 %
 Less                                   14 hrs 20 mins  -------------------------   00.68 %
 LESS                                   13 hrs 49 mins  -------------------------   00.65 %
