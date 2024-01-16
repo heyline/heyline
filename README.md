@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 14 January 2024
+From: 27 September 2022 - To: 15 January 2024
 
-Total Time: 2,138 hrs 24 mins
+Total Time: 2,138 hrs 36 mins
 
 TypeScript                             668 hrs 14 mins >>>>>>>>-----------------   31.25 %
 Kotlin                                 508 hrs 44 mins >>>>>>-------------------   23.79 %
@@ -34,8 +34,8 @@ Text                                   10 hrs 15 mins  -------------------------
 Other                                  8 hrs 24 mins   -------------------------   00.39 %
 Properties                             8 hrs 18 mins   -------------------------   00.39 %
 Gradle                                 7 hrs 32 mins   -------------------------   00.35 %
+Java Properties                        6 hrs 2 mins    -------------------------   00.28 %
 GitIgnore file                         5 hrs 52 mins   -------------------------   00.27 %
-Java Properties                        5 hrs 51 mins   -------------------------   00.27 %
 tsconfig                               3 hrs 15 mins   -------------------------   00.15 %
 XML                                    2 hrs 44 mins   -------------------------   00.13 %
 Python                                 2 hrs 43 mins   -------------------------   00.13 %
