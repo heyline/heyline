@@ -9,20 +9,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 12 May 2024
+From: 27 September 2022 - To: 13 May 2024
 
-Total Time: 2,187 hrs 37 mins
+Total Time: 2,189 hrs 34 mins
 
-TypeScript                             678 hrs 32 mins >>>>>>>>-----------------   31.02 %
-Kotlin                                 522 hrs 48 mins >>>>>>-------------------   23.90 %
-HTML                                   318 hrs 14 mins >>>>---------------------   14.55 %
-YAML                                   104 hrs 30 mins >------------------------   04.78 %
+TypeScript                             678 hrs 32 mins >>>>>>>>-----------------   30.99 %
+Kotlin                                 522 hrs 48 mins >>>>>>-------------------   23.88 %
+HTML                                   318 hrs 14 mins >>>>---------------------   14.53 %
+YAML                                   104 hrs 30 mins >------------------------   04.77 %
 JSON                                   80 hrs 30 mins  >------------------------   03.68 %
 Java                                   69 hrs 35 mins  >------------------------   03.18 %
-JavaScript                             65 hrs 44 mins  >------------------------   03.01 %
+JavaScript                             65 hrs 47 mins  >------------------------   03.00 %
 Bash                                   60 hrs 22 mins  >------------------------   02.76 %
 SQL                                    47 hrs 52 mins  >------------------------   02.19 %
-Markdown                               42 hrs 47 mins  -------------------------   01.96 %
+Markdown                               44 hrs 42 mins  >------------------------   02.04 %
 GraphQL                                29 hrs 57 mins  -------------------------   01.37 %
 Shell Script                           19 hrs 24 mins  -------------------------   00.89 %
 Docker                                 15 hrs 38 mins  -------------------------   00.71 %
@@ -34,7 +34,7 @@ Text                                   10 hrs 19 mins  -------------------------
 Other                                  10 hrs 9 mins   -------------------------   00.46 %
 Properties                             8 hrs 18 mins   -------------------------   00.38 %
 Gradle                                 7 hrs 32 mins   -------------------------   00.34 %
-Java Properties                        6 hrs 14 mins   -------------------------   00.29 %
+Java Properties                        6 hrs 14 mins   -------------------------   00.28 %
 GitIgnore file                         5 hrs 52 mins   -------------------------   00.27 %
 tsconfig                               3 hrs 15 mins   -------------------------   00.15 %
 XML                                    2 hrs 44 mins   -------------------------   00.13 %
