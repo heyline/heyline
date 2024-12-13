@@ -9,20 +9,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 11 December 2024
+From: 27 September 2022 - To: 12 December 2024
 
-Total Time: 2,253 hrs 51 mins
+Total Time: 2,259 hrs 3 mins
 
-TypeScript                             684 hrs 51 mins >>>>>>>>-----------------   30.39 %
-Kotlin                                 542 hrs 44 mins >>>>>>-------------------   24.08 %
-HTML                                   322 hrs 10 mins >>>>---------------------   14.29 %
-YAML                                   121 hrs 39 mins >------------------------   05.40 %
-JSON                                   81 hrs 29 mins  >------------------------   03.62 %
-Java                                   70 hrs 1 min    >------------------------   03.11 %
+TypeScript                             684 hrs 51 mins >>>>>>>>-----------------   30.32 %
+Kotlin                                 542 hrs 44 mins >>>>>>-------------------   24.03 %
+HTML                                   322 hrs 10 mins >>>>---------------------   14.26 %
+YAML                                   126 hrs 51 mins >------------------------   05.62 %
+JSON                                   81 hrs 29 mins  >------------------------   03.61 %
+Java                                   70 hrs 1 min    >------------------------   03.10 %
 JavaScript                             67 hrs 43 mins  >------------------------   03.00 %
-Bash                                   63 hrs 7 mins   >------------------------   02.80 %
-SQL                                    50 hrs 50 mins  >------------------------   02.26 %
-Markdown                               45 hrs 15 mins  >------------------------   02.01 %
+Bash                                   63 hrs 7 mins   >------------------------   02.79 %
+SQL                                    50 hrs 50 mins  >------------------------   02.25 %
+Markdown                               45 hrs 15 mins  >------------------------   02.00 %
 GraphQL                                29 hrs 58 mins  -------------------------   01.33 %
 Shell Script                           20 hrs 3 mins   -------------------------   00.89 %
 Docker                                 17 hrs 3 mins   -------------------------   00.76 %
