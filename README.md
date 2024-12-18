@@ -9,25 +9,25 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 16 December 2024
+From: 27 September 2022 - To: 17 December 2024
 
-Total Time: 2,265 hrs 48 mins
+Total Time: 2,267 hrs 41 mins
 
-TypeScript                             684 hrs 51 mins >>>>>>>>-----------------   30.23 %
-Kotlin                                 544 hrs 51 mins >>>>>>-------------------   24.05 %
-HTML                                   322 hrs 10 mins >>>>---------------------   14.22 %
+TypeScript                             684 hrs 51 mins >>>>>>>>-----------------   30.20 %
+Kotlin                                 544 hrs 51 mins >>>>>>-------------------   24.03 %
+HTML                                   322 hrs 10 mins >>>>---------------------   14.21 %
 YAML                                   127 hrs 34 mins >------------------------   05.63 %
-JSON                                   81 hrs 29 mins  >------------------------   03.60 %
+JSON                                   81 hrs 29 mins  >------------------------   03.59 %
 Java                                   70 hrs 1 min    >------------------------   03.09 %
 JavaScript                             67 hrs 43 mins  >------------------------   02.99 %
-Bash                                   63 hrs 56 mins  >------------------------   02.82 %
+Bash                                   65 hrs 6 mins   >------------------------   02.87 %
 SQL                                    50 hrs 50 mins  >------------------------   02.24 %
 Markdown                               45 hrs 15 mins  >------------------------   02.00 %
 GraphQL                                29 hrs 58 mins  -------------------------   01.32 %
-Shell Script                           20 hrs 3 mins   -------------------------   00.89 %
+Shell Script                           20 hrs 3 mins   -------------------------   00.88 %
 Docker                                 17 hrs 3 mins   -------------------------   00.75 %
 Less                                   15 hrs 21 mins  -------------------------   00.68 %
-Other                                  14 hrs 34 mins  -------------------------   00.64 %
+Other                                  15 hrs 18 mins  -------------------------   00.67 %
 LESS                                   13 hrs 49 mins  -------------------------   00.61 %
 Groovy                                 13 hrs 16 mins  -------------------------   00.59 %
 Text                                   11 hrs 12 mins  -------------------------   00.49 %
