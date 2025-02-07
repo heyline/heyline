@@ -9,19 +9,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 05 February 2025
+From: 27 September 2022 - To: 06 February 2025
 
-Total Time: 4,592 hrs 3 mins
+Total Time: 4,599 hrs 4 mins
 
-TypeScript                             1,452 hrs 44 mins>>>>>>>>-----------------   31.64 %
-Kotlin                                 1,232 hrs 53 mins>>>>>>>------------------   26.85 %
-HTML                                   710 hrs 1 min   >>>>---------------------   15.46 %
-YAML                                   262 hrs 25 mins >------------------------   05.71 %
-JSON                                   116 hrs 53 mins >------------------------   02.55 %
-Java                                   106 hrs 45 mins >------------------------   02.32 %
+TypeScript                             1,453 hrs 31 mins>>>>>>>>-----------------   31.60 %
+Kotlin                                 1,238 hrs 29 mins>>>>>>>------------------   26.93 %
+HTML                                   710 hrs 16 mins >>>>---------------------   15.44 %
+YAML                                   262 hrs 46 mins >------------------------   05.71 %
+JSON                                   116 hrs 53 mins >------------------------   02.54 %
+Java                                   106 hrs 46 mins >------------------------   02.32 %
 JavaScript                             103 hrs 20 mins >------------------------   02.25 %
 Bash                                   91 hrs 50 mins  >------------------------   02.00 %
-Less                                   85 hrs 39 mins  -------------------------   01.87 %
+Less                                   85 hrs 39 mins  -------------------------   01.86 %
 SQL                                    79 hrs 9 mins   -------------------------   01.72 %
 Markdown                               50 hrs 56 mins  -------------------------   01.11 %
 GraphQL                                43 hrs 47 mins  -------------------------   00.95 %
