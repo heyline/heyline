@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 26 June 2025
+From: 27 September 2022 - To: 27 June 2025
 
-Total Time: 4,732 hrs 45 mins
+Total Time: 4,734 hrs 11 mins
 
-TypeScript                             1,468 hrs 6 mins>>>>>>>>-----------------   31.02 %
-Kotlin                                 1,317 hrs 7 mins>>>>>>>------------------   27.83 %
-HTML                                   715 hrs 44 mins >>>>---------------------   15.12 %
+TypeScript                             1,468 hrs 6 mins>>>>>>>>-----------------   31.01 %
+Kotlin                                 1,317 hrs 35 mins>>>>>>>------------------   27.83 %
+HTML                                   715 hrs 45 mins >>>>---------------------   15.12 %
 YAML                                   268 hrs 1 min   >------------------------   05.66 %
-JSON                                   118 hrs 39 mins >------------------------   02.51 %
+JSON                                   118 hrs 52 mins >------------------------   02.51 %
 Java                                   111 hrs 47 mins >------------------------   02.36 %
 JavaScript                             105 hrs 14 mins >------------------------   02.22 %
 Bash                                   96 hrs 46 mins  >------------------------   02.04 %
@@ -27,7 +27,7 @@ Markdown                               53 hrs 9 mins   -------------------------
 GraphQL                                43 hrs 47 mins  -------------------------   00.93 %
 Docker                                 30 hrs 42 mins  -------------------------   00.65 %
 textmate                               27 hrs 14 mins  -------------------------   00.58 %
-Other                                  22 hrs 50 mins  -------------------------   00.48 %
+Other                                  23 hrs 34 mins  -------------------------   00.50 %
 Text                                   20 hrs 34 mins  -------------------------   00.43 %
 Shell Script                           18 hrs 58 mins  -------------------------   00.40 %
 Properties                             13 hrs 58 mins  -------------------------   00.30 %
