@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2022 - To: 04 November 2025
+From: 27 September 2022 - To: 05 November 2025
 
-Total Time: 4,746 hrs 17 mins
+Total Time: 4,748 hrs 12 mins
 
-TypeScript                             1,468 hrs 11 mins>>>>>>>>-----------------   30.93 %
-Kotlin                                 1,328 hrs 34 mins>>>>>>>------------------   27.99 %
+TypeScript                             1,468 hrs 11 mins>>>>>>>>-----------------   30.92 %
+Kotlin                                 1,328 hrs 34 mins>>>>>>>------------------   27.98 %
 HTML                                   715 hrs 49 mins >>>>---------------------   15.08 %
 YAML                                   268 hrs 18 mins >------------------------   05.65 %
 JSON                                   118 hrs 52 mins >------------------------   02.50 %
@@ -27,7 +27,7 @@ Markdown                               53 hrs 11 mins  -------------------------
 GraphQL                                43 hrs 47 mins  -------------------------   00.92 %
 Docker                                 30 hrs 42 mins  -------------------------   00.65 %
 textmate                               27 hrs 20 mins  -------------------------   00.58 %
-Other                                  23 hrs 37 mins  -------------------------   00.50 %
+Other                                  25 hrs 33 mins  -------------------------   00.54 %
 Text                                   20 hrs 35 mins  -------------------------   00.43 %
 Shell Script                           18 hrs 58 mins  -------------------------   00.40 %
 Properties                             14 hrs 1 min    -------------------------   00.30 %
